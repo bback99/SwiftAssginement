@@ -1,2 +1,3 @@
 # SwiftAssginement
-just a simple console program that are using protocol and design pattern
+just a simple console program that are using class and interface concept in OOP
+
